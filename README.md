@@ -1,6 +1,6 @@
 # Exercise-02b-Bullets-and-Asteroids
 
-Exercise for MSCH-C220
+Exercise for Elizabeth Jiang
 
 A demonstration of this exercise is available at [https://youtu.be/21mEssMhOhQ](https://youtu.be/21mEssMhOhQ)
 
